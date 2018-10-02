@@ -1,0 +1,14 @@
+#main-card {
+  margin-top: 15vh;
+  padding: auto;
+}
+
+#screen-parent {
+  box-shadow: 8px 8px #ececec;
+}
+
+#screen > p{
+  float: right;
+  font-weight: bold;
+  font-size: 22px;
+}
